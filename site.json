@@ -1,5 +1,5 @@
 {
-  "baseUrl": "/website",
+  "baseUrl": "/website-1",
   "pages": [
     {
       "glob": "**/*.md"
